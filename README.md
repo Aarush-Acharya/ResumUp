@@ -1,6 +1,6 @@
 # ResumUp
 
-A SaaS providing resume/portfolio building via predefined widgets along with individual user deployments using Vercel.
+A SaaS providing dynamic resume/portfolio building via predefined widgets deploying on users Vercel aaccount.
 
 ## Getting Started
 
